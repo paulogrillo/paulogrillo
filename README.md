@@ -1,7 +1,8 @@
 ### Hi, I'm Paulo Grillo! 👋
 
 💻 tec student
-🇧🇷 Living in Brazil, São Paulo
+
+Living in Brazil, São Paulo
 
 ### Find me elsewhere 🌎
 
