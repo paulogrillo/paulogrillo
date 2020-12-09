@@ -1,6 +1,6 @@
 ### Hi, I'm Paulo Grillo! 👋
 
-💻 tec student
+💻 Student
 
 Living in Brazil, São Paulo
 
