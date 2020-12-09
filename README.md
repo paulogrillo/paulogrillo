@@ -1,4 +1,5 @@
-### Hi, I'm Paulo Grillo! 👋
+### Hi, welcome.
+I am a technology student with a focus on web application.
 
 💻 Student
 
