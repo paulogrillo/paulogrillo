@@ -21,6 +21,7 @@
   <img align="center" alt="paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<<<<<<< HEAD
 
 </div>
 
@@ -28,4 +29,6 @@
 
   ![Snake animation](linkedin.com/in/paulo-augusto-grillo/blob/output/github-contribution-grid-snake.svg)
  
+=======
+>>>>>>> 9e53e3ce476187888962f4b46c2a34ea6d61e900
 </div>
