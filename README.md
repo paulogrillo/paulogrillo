@@ -21,9 +21,7 @@
 <img align="center" alt="paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div><br>
+<img align="center" alt="paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>
 
-<div> 
   ![Snake animation](https://github.com/paulogrillo/paulogrillo/blob/output/github-contribution-grid-snake.svg)
 </div>
