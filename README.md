@@ -9,8 +9,7 @@
 ________________________________________________________
 <br><br>
 
-
-## | Projetos
+# | Projetos
 <br>
 
 ### Front end 
@@ -19,9 +18,7 @@ ________________________________________________________
 3.  Angular - [PGT Crypto](https://pgt-crypto.netlify.app/)
 4.  HTML5/CSS/JS - [Round Six](https://roundsix-project.netlify.app/)
 <br>
-
 ### Back-end 
-
 1. Java/Springboot - [API Rest Rede social](https://gen60plus-api-2.herokuapp.com/swagger-ui/) * Team work
 2. Java/Springboot - [PGT Crypto](https://next-level.herokuapp.com/)
 3. Java/Springboot - [API Rest Blog](https://pgt-api.herokuapp.com/)
