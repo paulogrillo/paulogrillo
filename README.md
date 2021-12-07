@@ -11,8 +11,6 @@ ________________________________________________________
 
 # | Projetos
 
-<br>
-
 ### Front end
 
 1.  React - [Huppy Money](https://huppymoney.vercel.app/)
