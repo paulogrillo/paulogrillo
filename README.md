@@ -1,51 +1,14 @@
-### Welcome to my page.
+### Welcome to my page. Access to my website: https://paulogrillo.vercel.app/
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQE6Hv37Y5xZfw/profile-displaybackgroundimage-shrink_200_800/0/1652219112077?e=1657756800&v=beta&t=_VCJtowlw4VimywYyXCX1thiisOAbVRX3YVi3Nhpz6E">
-
-💻 Living in Brazil, São Paulo.
-<br>
+Hey! My names is Paulo, have 28 years. I am a Java developer.<br>
+💻 I live brazil, São Paulo. Please feel free in my Github.
+<br><br>
 <div>
   <a href="https://www.linkedin.com/in/paulo-augusto-grillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<br><br>
-# | Projects
-
-### Front End
-
-1.  React - [Huppy Money](https://huppymoney.vercel.app/)
-2.  React - [Huppy Agency ](https://huppy-agency.netlify.app/)
-3.  Angular - [PGT Crypto](https://pgt-crypto.netlify.app/)
-4.  HTML5/CSS/JS - [Round Six](https://roundsix-project.netlify.app/)
-    <br>
-
-### Back End
-
-1. Java/Springboot - [API Rest Rede social](https://gen60plus-api-2.herokuapp.com/swagger-ui/) \* Team work
-2. Java/Springboot - [PGT Crypto](https://next-level.herokuapp.com/)
-3. Java/Springboot - [API Rest Blog](https://pgt-api.herokuapp.com/)
-4. Java/Hibernate/Ser - [Health Track System](https://techhood-healthtrack.herokuapp.com/) \* Team work
-5. Java/Project/Study - [E-commerce](https://github.com/paulogrillo/turma33java/tree/main/ecommerce-oop)
-6. Java/Project/Study - [Banco](https://github.com/paulogrillo/turma33java/tree/main/java/AULAS/BANCO)
-7. Java - [Playground JAVA](https://github.com/paulogrillo/java-playground)
-8. Python - [Playground Python](https://github.com/paulogrillo/playground-py)
-9. JavaScript - [Playground JavaScript](https://github.com/paulogrillo/playground-js)
-   <br>
-
-### Full Stack
-
-1. React/Nodejs - [App Proffy](https://proffy-rouge.vercel.app/)
-2. React/Nodejs - [App Happy](https://happy-livid.vercel.app/)
-3. React/Nodejs - [App E-coleta](https://next-level.herokuapp.com/)
-4. Angular/Java - [Blog PGT Crypto](https://pgt-crypto.netlify.app/)
-5. Angular/Java - [Rede Social Gen60+](https://gen60plus.netlify.app/)
-
-## Awards
-
-<b>
-
-- 2° - [Challenge Ifood ](https://challenge-ifood.vercel.app/home)
-- 2° - [Challenge IBM Chatbot Watson](https://laura-website.vercel.app/)
+<br>
 
 <div style="display: inline_block"><br>
 <img align="center" alt="paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
