@@ -1,14 +1,15 @@
 ### Welcome to my page.
 
-💻 Living in Brazil, São Paulo.
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQE6Hv37Y5xZfw/profile-displaybackgroundimage-shrink_200_800/0/1652219112077?e=1657756800&v=beta&t=_VCJtowlw4VimywYyXCX1thiisOAbVRX3YVi3Nhpz6E">
 
+💻 Living in Brazil, São Paulo.
+<br>
 <div>
   <a href="https://www.linkedin.com/in/paulo-augusto-grillo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <br><br>
-
-# | Projetos
+# | Projects
 
 ### Front End
 
@@ -39,12 +40,12 @@
 4. Angular/Java - [Blog PGT Crypto](https://pgt-crypto.netlify.app/)
 5. Angular/Java - [Rede Social Gen60+](https://gen60plus.netlify.app/)
 
-## Premiações
+## Awards
 
 <b>
 
-- Segundo lugar - [Challenge Ifood ](https://challenge-ifood.vercel.app/home)
-- Segundo lugar - [Challenge IBM Chatbot Watson](https://laura-website.vercel.app/)
+- 2° - [Challenge Ifood ](https://challenge-ifood.vercel.app/home)
+- 2° - [Challenge IBM Chatbot Watson](https://laura-website.vercel.app/)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
