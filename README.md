@@ -1,4 +1,4 @@
-### Welcome to my page. Access to my website: https://paulogrillo.vercel.app/
+### Welcome to my GitHub page.
 My name is Paulo, I am a Java developer living in Brazil - SP.<br>
 
 <div style="display: inline_block"><br>
